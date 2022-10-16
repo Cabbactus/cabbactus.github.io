@@ -516,7 +516,7 @@ textarea {
 }
 #app-mount .guilds-2JjMmN [class*=circleIconButton] {
   background: var(--white);
-  color: rgb(var(--gradient-primary));
+  color: rgb(133, 17, 40);
 }
 #app-mount .guilds-2JjMmN [class*=circleIconButton].selected-ugP_am, #app-mount .guilds-2JjMmN [class*=circleIconButton]:hover {
   background: var(--white-double);
